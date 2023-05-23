@@ -1,9 +1,9 @@
-### Olá! Prazer, eu sou o Akat, ou Silva, como preferir! 👋 <img id="Killua-Inicio" src="https://www.pngplay.com/wp-content/uploads/12/Killua-Zoldyck-PNG-Free-File-Download.png" width="150" height="150">
+<p align="right"><img id="Killua-Inicio" src="https://www.pngplay.com/wp-content/uploads/12/Killua-Zoldyck-PNG-Free-File-Download.png" width="150" height="150"></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=DevAkat&color=blue" alt="Profile views" /> </p>
+
+### Hello! I'm Akat or Silva, however you prefer to refer to me!
 </br>
 
-![Akat's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAkat&show_icons=true&theme=tokyonight)
-
-## Linguagens que uso no dia a dia!
+## 💻 &nbsp;Study Stacks
 
 <div style="display: inline_block"></br>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -13,18 +13,22 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAkat&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<img id="Killua-Final" src="https://www.pngplay.com/wp-content/uploads/12/Killua-Zoldyck-Transparent-Free-PNG.png" width="273" height="">
+## ⚙️ &nbsp;Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAkat&layout=compact&theme=tokyonight" alt="maykbrito's most languages"/>
+</p>
 
 </br>
 
-Ainda estou descobrindo e aprendendo sobre amplo e vasto mundo da tecnologia!
+- 🔥 Studant of Html5, CSS3 and JavaScript
+- ⚡ Fun fact : **Nothing 😜**
 
-## Formas de contato !
+## Contact
 
 [![Royal Dev's](https://img.shields.io/badge/Royal_Dev's-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/JjreqpS29G)
 [![Instagram](https://img.shields.io/badge/Akat.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akat.js/)
 
 <div style="display: inline_block">
-    <img align="center" alt="Discord" src="https://img.shields.io/badge/Akat [5189]-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
+    <img align="center" alt="Discord" src="https://img.shields.io/badge/Akat [5189]-7289DA?style=for-the-badge&logo=Discord&logoColor=white" cursor="normal">
 </div>
